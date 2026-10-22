@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205055880965",
+    "firebase_url": "https://testyourluck-207ba-default-rtdb.firebaseio.com",
+    "project_id": "testyourluck-207ba",
+    "storage_bucket": "testyourluck-207ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205055880965:android:8b2d402374fe0d5b7f516c",
+        "android_client_info": {
+          "package_name": "com.everythinggood.testyourluck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205055880965-n483unj4p8imhgef0rmlblkd8np4b1er.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.everythinggood.testyourluck",
+            "certificate_hash": "4182eb59ffb28364a4d9d005ca3e5ceaa0c5a7b9"
+          }
+        },
+        {
+          "client_id": "205055880965-gjbuuomtojqo29ej8888fc3h17sunuqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoScoZB-7v4IasKHa10bJbx_YATwqYlGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205055880965-gjbuuomtojqo29ej8888fc3h17sunuqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

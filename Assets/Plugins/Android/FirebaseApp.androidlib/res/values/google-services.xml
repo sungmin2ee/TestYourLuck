@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://testyourluck-207ba-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">205055880965</string>
+  <string name="google_storage_bucket" translatable="false">testyourluck-207ba.firebasestorage.app</string>
+  <string name="project_id" translatable="false">testyourluck-207ba</string>
+  <string name="google_api_key" translatable="false">AIzaSyDoScoZB-7v4IasKHa10bJbx_YATwqYlGc</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDoScoZB-7v4IasKHa10bJbx_YATwqYlGc</string>
+  <string name="google_app_id" translatable="false">1:205055880965:android:8b2d402374fe0d5b7f516c</string>
+  <string name="default_android_client_id" translatable="false">205055880965-n483unj4p8imhgef0rmlblkd8np4b1er.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">205055880965-gjbuuomtojqo29ej8888fc3h17sunuqe.apps.googleusercontent.com</string>
+</resources>
